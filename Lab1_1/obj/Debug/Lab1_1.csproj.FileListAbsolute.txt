@@ -1,0 +1,6 @@
+c:\users\tanvi\documents\visual studio 2017\Projects\AreaPerimeter\Lab1_1\bin\Debug\Lab1_1.exe.config
+c:\users\tanvi\documents\visual studio 2017\Projects\AreaPerimeter\Lab1_1\bin\Debug\Lab1_1.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\AreaPerimeter\Lab1_1\bin\Debug\Lab1_1.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\AreaPerimeter\Lab1_1\obj\Debug\Lab1_1.csprojResolveAssemblyReference.cache
+c:\users\tanvi\documents\visual studio 2017\Projects\AreaPerimeter\Lab1_1\obj\Debug\Lab1_1.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\AreaPerimeter\Lab1_1\obj\Debug\Lab1_1.pdb
